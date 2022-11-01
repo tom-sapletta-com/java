@@ -45,3 +45,23 @@ Notes abouts java language
 > The first factor I'd like to consider is the choice of programming language and how you use programming languages. To illustrate the impact of a programming language on the amount of ceremony in the code, let's take a little detour into the musty pages of history.
 > 
 > Earlier in this decade I was building a large system in Visual Basic 6.0. Each method would look something like what you see in **Figure 1**. Every single bit of that code was ceremony.
+
+[OpenAPI 3 Library for spring-boot](https://springdoc.org/)
+
+> `springdoc-openapi` java library helps to automate the generation of API documentation using spring boot projects. `springdoc-openapi` works by examining an application at runtime to infer API semantics based on spring configurations, class structure and various annotations.
+> 
+> Automatically generates documentation in JSON/YAML and HTML format APIs. This documentation can be completed by comments using swagger-api annotations.
+> 
+> This library supports:
+> 
+> -   OpenAPI 3
+>     
+> -   Spring-boot (v1 and v2)
+>     
+> -   JSR-303, specifically for @NotNull, @Min, @Max, and @Size.
+>     
+> -   Swagger-ui
+>     
+> -   OAuth 2
+>     
+> -   GraalVM native images
