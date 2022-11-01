@@ -65,3 +65,8 @@ Notes abouts java language
 > -   OAuth 2
 >     
 > -   GraalVM native images
+
+
+[workshops-de/Bookshelf_sample_solution at Use_a_persistent_H2_database_solution](https://github.com/workshops-de/Bookshelf_sample_solution/tree/Use_a_persistent_H2_database_solution)
+
+[workshops-de/Bookshelf_sample_solution: Sample solution for Spring Boot workshop](https://github.com/workshops-de/Bookshelf_sample_solution)
