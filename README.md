@@ -70,3 +70,5 @@ Notes abouts java language
 [workshops-de/Bookshelf_sample_solution at Use_a_persistent_H2_database_solution](https://github.com/workshops-de/Bookshelf_sample_solution/tree/Use_a_persistent_H2_database_solution)
 
 [workshops-de/Bookshelf_sample_solution: Sample solution for Spring Boot workshop](https://github.com/workshops-de/Bookshelf_sample_solution)
+
+[workshops-de/Bookshelf_Spring_Boot_workshop_31_08_2022: Sample project for the Spring Boot workshop starting on 31 August 2022](https://github.com/workshops-de/Bookshelf_Spring_Boot_workshop_31_08_2022)
