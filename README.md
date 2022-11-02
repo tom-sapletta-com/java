@@ -3,6 +3,7 @@ Notes abouts java language
 
 [Spring Boot Test Slices: Overview and Usage - rieckpil](https://rieckpil.de/spring-boot-test-slices-overview-and-usage/)
 
+[Guide to use Lombok In Spring Boot - Java to Dev](https://javatodev.com/lombok-spring-boot/)
 
 [Spring Initializr](https://start.spring.io/)
 
