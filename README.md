@@ -1,6 +1,8 @@
 # java
 Notes abouts java language
 
+[Spring Boot Test Slices: Overview and Usage - rieckpil](https://rieckpil.de/spring-boot-test-slices-overview-and-usage/)
+
 
 [Spring Initializr](https://start.spring.io/)
 
